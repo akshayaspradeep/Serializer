@@ -1,0 +1,69 @@
+C:\Users\akshaya.s\Development\Sample Serializer\bin\Debug\net6.0\Sample Serializer.exe
+C:\Users\akshaya.s\Development\Sample Serializer\bin\Debug\net6.0\Sample Serializer.dll
+C:\Users\akshaya.s\Development\Sample Serializer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\akshaya.s\Development\Sample Serializer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\akshaya.s\Development\Sample Serializer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\akshaya.s\Development\Sample Serializer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\akshaya.s\Development\Sample Serializer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\akshaya.s\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.csproj.AssemblyReference.cache
+C:\Users\akshaya.s\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshaya.s\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.AssemblyInfoInputs.cache
+C:\Users\akshaya.s\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.AssemblyInfo.cs
+C:\Users\akshaya.s\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.csproj.CoreCompileInputs.cache
+C:\Users\akshaya.s\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\akshaya.s\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akshaya.s\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.dll
+C:\Users\akshaya.s\Development\Sample Serializer\obj\Debug\net6.0\refint\Sample Serializer.dll
+C:\Users\akshaya.s\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.pdb
+C:\Users\akshaya.s\Development\Sample Serializer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\akshaya.s\Development\Sample Serializer\bin\Debug\net6.0\appsettings.json
+C:\Users\akshaya.s\Development\Sample Serializer\bin\Debug\net6.0\Sample Serializer.deps.json
+C:\Users\akshaya.s\Development\Sample Serializer\bin\Debug\net6.0\Sample Serializer.runtimeconfig.json
+C:\Users\akshaya.s\Development\Sample Serializer\bin\Debug\net6.0\Sample Serializer.pdb
+C:\Users\akshaya.s\Development\Sample Serializer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\akshaya.s\Development\Sample Serializer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\akshaya.s\Development\Sample Serializer\obj\Debug\net6.0\staticwebassets\msbuild.Sample Serializer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\akshaya.s\Development\Sample Serializer\obj\Debug\net6.0\staticwebassets\msbuild.build.Sample Serializer.props
+C:\Users\akshaya.s\Development\Sample Serializer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sample Serializer.props
+C:\Users\akshaya.s\Development\Sample Serializer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sample Serializer.props
+C:\Users\akshaya.s\Development\Sample Serializer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\akshaya.s\Development\Sample Serializer\obj\Debug\net6.0\scopedcss\bundle\Sample Serializer.styles.css
+C:\Users\akshaya.s\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.csproj.CopyComplete
+C:\Users\akshaya.s\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.genruntimeconfig.cache
+C:\Users\akshaya.s\Development\Sample Serializer\obj\Debug\net6.0\ref\Sample Serializer.dll
+C:\Development\Sample Serializer\bin\Debug\net6.0\Sample Serializer.exe
+C:\Development\Sample Serializer\bin\Debug\net6.0\Sample Serializer.dll
+C:\Development\Sample Serializer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Development\Sample Serializer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Development\Sample Serializer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Development\Sample Serializer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Development\Sample Serializer\bin\Debug\net6.0\appsettings.Development.json
+C:\Development\Sample Serializer\bin\Debug\net6.0\appsettings.json
+C:\Development\Sample Serializer\bin\Debug\net6.0\Sample Serializer.deps.json
+C:\Development\Sample Serializer\bin\Debug\net6.0\Sample Serializer.runtimeconfig.json
+C:\Development\Sample Serializer\bin\Debug\net6.0\Sample Serializer.pdb
+C:\Development\Sample Serializer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.csproj.AssemblyReference.cache
+C:\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.AssemblyInfoInputs.cache
+C:\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.AssemblyInfo.cs
+C:\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.csproj.CoreCompileInputs.cache
+C:\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.MvcApplicationPartsAssemblyInfo.cs
+C:\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.MvcApplicationPartsAssemblyInfo.cache
+C:\Development\Sample Serializer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Development\Sample Serializer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Development\Sample Serializer\obj\Debug\net6.0\staticwebassets\msbuild.Sample Serializer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Development\Sample Serializer\obj\Debug\net6.0\staticwebassets\msbuild.build.Sample Serializer.props
+C:\Development\Sample Serializer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sample Serializer.props
+C:\Development\Sample Serializer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sample Serializer.props
+C:\Development\Sample Serializer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Development\Sample Serializer\obj\Debug\net6.0\scopedcss\bundle\Sample Serializer.styles.css
+C:\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.csproj.CopyComplete
+C:\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.dll
+C:\Development\Sample Serializer\obj\Debug\net6.0\refint\Sample Serializer.dll
+C:\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.pdb
+C:\Development\Sample Serializer\obj\Debug\net6.0\Sample Serializer.genruntimeconfig.cache
+C:\Development\Sample Serializer\obj\Debug\net6.0\ref\Sample Serializer.dll
+C:\Development\Sample Serializer\bin\Debug\net6.0\FluentValidation.dll
+C:\Development\Sample Serializer\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Development\Sample Serializer\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
